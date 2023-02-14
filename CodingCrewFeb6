@@ -1,0 +1,17 @@
+import java.util.*;
+public class CodingCrewFeb6
+{
+    public static void main (String[] args)
+    {
+        Scanner userIn = new Scanner(System.in);
+        System.out.println("Enter the message: ");
+        String message = userIn.nextLine();
+
+        String cipher = "";
+        int i = 0;
+        while(message.indexOf("a") >= 0 || message.indexOf("e") >= 0 || message.indexOf("i") >= 0 || message.indexOf("o") >= 0 || message.indexOf("u") >= 0)
+        {
+            for ()
+        }
+    }
+}
